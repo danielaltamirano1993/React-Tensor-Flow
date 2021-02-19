@@ -13,6 +13,7 @@ Pueden clonar el repositorio y ejecutarlo desde VS Code con ayuda de los plugins
 
 Es necesario node.js
 Incluir Patch en el sistema (revisar videos o informacion en la comunidad
+
 https://www.youtube.com/watch?v=31dRWcPcvhM
 
 ### Dónde pueden recibir ayuda los usuarios con tu proyecto
