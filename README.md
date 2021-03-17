@@ -1,7 +1,8 @@
   
 ## Qué hace el proyecto.
 
-Este proyecto fue desarrollado implementando las librerias Tensor Flow y React con ayuda de CocoSD
+Este proyecto fue desarrollado implementando las librerias Tensor Flow y React con ayuda de CocoSD,
+se realizo con ayuda del lenguaje JavaScript.
 
 ### Por qué el proyecto es útil.
 
