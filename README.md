@@ -1,3 +1,5 @@
+# English
+
 ## What the project does.
 
 This project was developed by implementing the Tensor Flow and React libraries with the help of CocoSD,
@@ -15,6 +17,7 @@ node.js is required
 
 Include Patch in the system (review videos or information in the community <br> <br> https://www.youtube.com/watch?v=31dRWcPcvhM
 
+# Español
 
 ## Qué hace el proyecto.
 
